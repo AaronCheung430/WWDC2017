@@ -1,7 +1,7 @@
 # WWDC2017
 **Introduction**
 
-Hi, I am Aaron. A 14 years old boy from Hong Kong. I love coding very much! Hope will see you at WWDC next year!
+Hi, I am Aaron. A 14 years old boy (in 2017) from Hong Kong. I love coding very much! Hope will see you at WWDC next year!
 
 **Status**
 
@@ -9,7 +9,10 @@ Rejected
 
 **Description**
 
-
+My playground will be performed better in Xcode on macOS. When you enter my playground, you will see the first page of my playground called “Hello Playground!”. This is the playground for the introduction of WWDC 2017. I used the following modules:
+	UIKit
+	PlaygroundSupport
+	AVFoundation
 
 **Images**
 
