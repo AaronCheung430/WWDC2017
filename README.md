@@ -1,7 +1,9 @@
 # WWDC2017
 **Introduction**
 
-Hi, I am Aaron. A 14 years old boy (in 2017) from Hong Kong. I love coding very much! Hope will see you at WWDC next year!
+Hi, I am Aaron. A 14 years old boy (in 2017) from Hong Kong🇭🇰. I love coding very much! Hope will see you at WWDC next year!
+
+You may visit https://youtu.be/OFgC1uoggXE to watch my project before you downloading it. Thx! :)
 
 **Status**
 
